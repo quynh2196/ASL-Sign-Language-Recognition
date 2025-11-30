@@ -1,8 +1,5 @@
-# 🤟 Hệ thống Nhận diện Ngôn ngữ Ký hiệu ASL (ASL Recognition System)
+# Hệ thống Nhận diện Ngôn ngữ Ký hiệu ASL (ASL Recognition System)
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10%2B-orange)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Holistic-teal)
 
 Dự án xây dựng hệ thống nhận diện ngôn ngữ ký hiệu Mỹ (ASL) theo thời gian thực. Hệ thống sử dụng **MediaPipe** để trích xuất điểm mốc xương khớp (landmarks) và mô hình **Transformer** để phân loại chuỗi hành động.
 
