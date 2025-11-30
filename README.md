@@ -42,20 +42,30 @@ asl-recognition-project/
 ## 🛠 2. Hướng dẫn Cài đặt
 
 ### Bước 1: Chuẩn bị môi trường
-# Clone dự án
+### Clone dự án
+```text
 git clone https://github.com/quynh2196/ASL-Sign-Language-Recognition.git
 cd ASL-Sign-Language-Recognition
+```
 
-# Tạo môi trường ảo (Khuyên dùng)
+### Tạo môi trường ảo (Khuyên dùng)
+```text
 python -m venv venv
+```
 
-# Kích hoạt (Windows)
+### Kích hoạt (Windows)
+```text
 .\venv\Scripts\activate
-# Kích hoạt (Mac/Linux)
+```
+### Kích hoạt (Mac/Linux)
+```text
 source venv/bin/activate
+```
 
 ### Bước 2: Cài đặt thư viện
+```text
 pip install -r requirements.txt
+```
 
 ---
 
